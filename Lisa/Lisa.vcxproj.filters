@@ -21,6 +21,9 @@
     <ClCompile Include="Source\Lisa\Core.h">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Source\Lisa\Log.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Source\Lisa\Application.h">
@@ -30,6 +33,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Source\Lisa\EntryPoint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Lisa\Log.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
